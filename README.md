@@ -1,4 +1,4 @@
-###Steps
+### Steps
 1. Sample python Flask "ping" and "pong" services
 2. Build docker image for "ping" service
 `docker build -t ping-service .`
